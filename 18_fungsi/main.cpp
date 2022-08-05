@@ -14,6 +14,4 @@ int main()
     cin >> n;
 
     cout << "hasil akar dari n adalah : " << sqrt(n) << endl;
-
-
 }
