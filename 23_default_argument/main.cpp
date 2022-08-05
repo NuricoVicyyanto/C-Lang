@@ -3,7 +3,7 @@
 using namespace std;
 
 // default argument => memberi nilai default pada variabel untuk menghindari nilai kosong
-double vol_kubus(double a, double b, double c = 2);
+double vol_kubus(double a, double b, double c = 2); // ini juga prototype
 
 int main()
 {
