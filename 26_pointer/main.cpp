@@ -7,8 +7,8 @@ int main()
     int a = 8;
 
     // pointer
-    int *aPtr = nullptr; // tanda * digunkan untuk menandai pointer baru
-    aPtr = &a;           // tanda & berfungsi untuk mencari alamat pointer
+    int *aPtr = nullptr; // tanda * digunkan untuk mengambil nilai dari pointer
+    aPtr = &a;           // tanda & berfungsi untuk mencari alamat variabel pada memori
 
     cout << "nilai dari a : " << a << endl;
     cout << "pointer dari a : " << aPtr << endl;
